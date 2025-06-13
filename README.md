@@ -34,6 +34,15 @@ Estudo de semântica textual e gramáticas formais.
 #### Aula 07 – Mineração e Descoberta de Conhecimento
 Frequência de palavras, contagem de termos e extração de entidades úteis nos textos.
 
+📖 Módulo 2 – Classificação de Texto e Redes Neurais
+
+#### Aula 10 – Análise de Sentimentos com Naive Bayes
+Introdução à classificação de texto e análise de sentimentos, utilizando a biblioteca NLTK e o classificador Naive Bayes.
+#### Aula 11 – Pipeline de Classificação de Texto
+Construção de um pipeline completo para classificação, incluindo pré-processamento, extração de características com TF-IDF e comparação de modelos como Naive Bayes, Regressão Logística e SVM.
+#### Aula 13 – Redes Neurais para PLN
+Aplicação de Redes Neurais Recorrentes (RNN e LSTM) para tarefas de previsão de palavras e análise de sentimentos.
+
 ## 🚀 Projetos Aplicados
 #### Projeto 01 – Análise Quantitativa com Ubirajara
 Estudo de frequência, riqueza lexical e características estatísticas de um corpus.
